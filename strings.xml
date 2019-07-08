@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TEMP</string>
+
+    <string-array name="camgall_array">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+</resources>
